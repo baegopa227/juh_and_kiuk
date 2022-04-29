@@ -1,2 +1,1 @@
-juciara is really baby.  m.m
-sua cara nem arde
+1. create a test.exe file. If you execute a test.exe, it should print your name. 
